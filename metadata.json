@@ -1,0 +1,6 @@
+{
+  "name": "XAU AI Predictor",
+  "description": "Professional XAU/USD Gold market analysis and prediction application using AMD, Liquidity Sweeps, custom Fibonacci levels, and Standard Deviation zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
